@@ -3,6 +3,7 @@
 
 A smart and interactive Task Manager web application built using **Streamlit**, **scikit-learn**, and **pandas**. This app enables users to filter and explore tasks, predict task priority using a trained machine learning model, and visualize project insights — all in one sleek dashboard.
 
+---
 # Live app - https://infotact-group-5-chxhqy7ncutfgd3uvstqgl.streamlit.app/
 ---
 
