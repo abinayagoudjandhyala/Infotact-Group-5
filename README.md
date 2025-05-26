@@ -10,7 +10,7 @@ Check out the live app here: [Infotact Streamlit App](https://infotact-group-5-c
 
 ---
 
-## 👥 Developed by: Infotact Group 4
+## 👥 Developed by: Infotact Group 5
 
 > This is a group project developed by **Infotact Group 4** as part of our collaborative efforts in learning real-world data science, machine learning, and full-stack development with Python.
 
